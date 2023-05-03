@@ -1,2 +1,2 @@
-# guilded.go
-Go wrapper for https://guilded.gg/
+# guilded.cpp
+C++ wrapper for https://guilded.gg/
